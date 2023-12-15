@@ -10,4 +10,5 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+  { import = "astrocommunity.colorscheme.gruvbox-nvim" },
 }
