@@ -11,4 +11,6 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
+  { import = "astrocommunity.utility.noice-nvim" },
+  { import = "astrocommunity.completion.cmp-cmdline" },
 }
